@@ -1,16 +1,129 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rajeswarinath17/rajeswarinath17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Rajeswari Nath
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+Developer;Java+Learner;Web+Development+Enthusiast;Always+Learning+New+Things!" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://komarev.com/ghpvc/?username=rajeswarinath17&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/rajeswarinath17?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/rajeswarinath17?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 Computer Science Student
+
+💻 Passionate about C++, Java & Problem Solving
+
+🌱 Currently learning Data Structures & Algorithms
+
+🚀 Exploring Full Stack Web Development
+
+⚡ Goal: Become a Software Developer
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,tailwind,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeswarinath17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeswarinath17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rajeswarinath17&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeswarinath17&theme=tokyo-night"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajeswarinath17&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+- 📌 Data Structures & Algorithms
+- 📌 C++ STL
+- 📌 Java
+- 📌 Object-Oriented Programming
+- 📌 HTML, CSS & JavaScript
+- 📌 Tailwind CSS
+- 📌 Git & GitHub
+
+---
+
+# 💼 Featured Projects
+
+🌟 Student Grade Management System
+
+🌟 DSA in C++
+
+🌟 Java Programs
+
+🌟 Attendance Management System
+
+🌟 Responsive Web Projects
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+rajeswarinath12@gmail.com
+
+💼 **LinkedIn**
+
+(Add your LinkedIn profile URL here)
+
+---
+
+# 💡 Quote
+
+> **"Success doesn't come from what you know. It comes from what you consistently build."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting My Profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer"/>
+
+</div>
