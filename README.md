@@ -63,8 +63,7 @@ Computer Science Student • Aspiring Software Developer • India 🇮🇳
 
 ---
 
-# 📊 GitHub Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajeswarinath17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 
 
 ---
@@ -94,8 +93,6 @@ Computer Science Student • Aspiring Software Developer • India 🇮🇳
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-# 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=rajeswarinath17&theme=algolia&no-frame=true"/>
 
 
 ---
@@ -174,7 +171,7 @@ Computer Science Student • Aspiring Software Developer • India 🇮🇳
 
 <p align="center">
 
-If you like my work, consider giving a ⭐ to my repositories!
+
 ⭐ Thanks for Visiting My Profile ⭐
 
 </p>
