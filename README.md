@@ -64,10 +64,6 @@ Computer Science Student • Aspiring Software Developer • India 🇮🇳
 ---
 
 
-
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
