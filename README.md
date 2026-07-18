@@ -3,9 +3,7 @@
 </p>
 <div align="center">
 
-<p align="center">
-  <img src="./gitbanner.png" width="100%" alt="Banner"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Rajeswari Nath</h1>
 
@@ -66,14 +64,8 @@ Computer Science Student • Aspiring Software Developer • India 🇮🇳
 ---
 
 # 📊 GitHub Stats
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajeswarinath17&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeswarinath17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeswarinath17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -98,12 +90,8 @@ Computer Science Student • Aspiring Software Developer • India 🇮🇳
 ---
 
 # 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=rajeswarinath17&theme=algolia&no-frame=true"/>
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajeswarinath17&theme=algolia&no-frame=true&row=1&column=4"/>
-
-</p>
 
 ---
 
@@ -182,6 +170,7 @@ Computer Science Student • Aspiring Software Developer • India 🇮🇳
 <p align="center">
 
 If you like my work, consider giving a ⭐ to my repositories!
+⭐ Thanks for Visiting My Profile ⭐
 
 </p>
 
@@ -194,16 +183,7 @@ If you like my work, consider giving a ⭐ to my repositories!
 </div>
 
 
-# 💡 Quote
 
-> **"Success doesn't come from what you know. It comes from what you consistently build."**
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for Visiting My Profile ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer"/>
-
-</div> --> 
