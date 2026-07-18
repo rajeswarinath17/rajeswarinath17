@@ -88,6 +88,11 @@ Computer Science Student • Aspiring Software Developer • India 🇮🇳
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 # 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=rajeswarinath17&theme=algolia&no-frame=true"/>
