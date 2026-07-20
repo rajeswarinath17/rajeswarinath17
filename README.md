@@ -149,7 +149,7 @@ Computer Science Student • Aspiring Software Developer • India 🇮🇳
 
 💼 LinkedIn
 
-**https://www.linkedin.com/in/YOUR-LINKEDIN**
+**https://www.linkedin.com/in/rajeswari-nath-b491a0386/**
 
 ---
 
